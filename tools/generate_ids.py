@@ -50,6 +50,6 @@ if __name__ == "__main__":
     output = json.dumps(data, indent=2, sort_keys=True)
     if len(sys.argv) > 1:
         with open(sys.argv[1], "w") as handle:
-            handle.write(output + "\\n")
+            handle.write(output + "\n")
     else:
         print(output)
