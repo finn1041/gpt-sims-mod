@@ -1,0 +1,67 @@
+{
+  "mod": "Bladder Traits",
+  "creator": "Finn1041",
+  "identifier_algorithm": "FNV-1a 32-bit over ASCII identifiers; verify against Sims 4 Studio Hash Generator before packaging",
+  "traits": [
+    {
+      "name": "Weak Bladder",
+      "slug": "WeakBladder",
+      "tuning_name": "Finn1041_BladderTraits_Trait_WeakBladder",
+      "tuning_instance": "0x34BE28C4",
+      "simdata_instance": "0x34BE28C4",
+      "name_key": "0x06D70B53",
+      "description_key": "0xAD9ABB1A",
+      "description": "A bladder that fills faster than normal. Bathroom needs build more quickly, even though bladder capacity and ordinary control remain unchanged."
+    },
+    {
+      "name": "Incontinence",
+      "slug": "Incontinence",
+      "tuning_name": "Finn1041_BladderTraits_Trait_Incontinence",
+      "tuning_instance": "0x2467167D",
+      "simdata_instance": "0x2467167D",
+      "name_key": "0x619B78FA",
+      "description_key": "0x11F56265",
+      "description": "A bladder that is harder to control. Urgency can lead to accidents, and control may occasionally fail even when the Sim is asleep."
+    },
+    {
+      "name": "Small Bladder",
+      "slug": "SmallBladder",
+      "tuning_name": "Finn1041_BladderTraits_Trait_SmallBladder",
+      "tuning_instance": "0x8475D8AD",
+      "simdata_instance": "0x8475D8AD",
+      "name_key": "0xF4C4C0FA",
+      "description_key": "0x194EFA65",
+      "description": "A smaller effective bladder capacity makes drinks contribute more to bladder urgency. Natural bladder decay and ordinary control remain normal."
+    },
+    {
+      "name": "Bladder Distracted",
+      "slug": "BladderDistracted",
+      "tuning_name": "Finn1041_BladderTraits_Trait_BladderDistracted",
+      "tuning_instance": "0x0E884CEF",
+      "simdata_instance": "0x0E884CEF",
+      "name_key": "0xD88E5FDE",
+      "description_key": "0x0A8AD871",
+      "description": "When busy with other activities, this Sim may put off a bathroom trip. The urge continues to build while they stay occupied."
+    },
+    {
+      "name": "Strong Bladder",
+      "slug": "StrongBladder",
+      "tuning_name": "Finn1041_BladderTraits_Trait_StrongBladder",
+      "tuning_instance": "0x0E23B3D9",
+      "simdata_instance": "0x0E23B3D9",
+      "name_key": "0x5AAE1624",
+      "description_key": "0x0565CDCB",
+      "description": "A resilient bladder that fills more slowly and tolerates urgency better. Bathroom needs still occur, but they take longer to become pressing."
+    },
+    {
+      "name": "Large Bladder",
+      "slug": "LargeBladder",
+      "tuning_name": "Finn1041_BladderTraits_Trait_LargeBladder",
+      "tuning_instance": "0x7CF834D1",
+      "simdata_instance": "0x7CF834D1",
+      "name_key": "0xD565FD76",
+      "description_key": "0xC708B399",
+      "description": "A larger effective bladder capacity means the same amount of fluid creates a smaller share of bladder urgency."
+    }
+  ]
+}
